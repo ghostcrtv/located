@@ -1,0 +1,16 @@
+{
+  "name": "LOCATED.",
+  "short_name": "LOCATED.",
+  "description": "How well do you know the world? A geography guessing game hosted by Benny.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F5F5F2",
+  "theme_color": "#111111",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
